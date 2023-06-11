@@ -2,6 +2,8 @@
 
 This github repository contains the codes for my paper "A hybrid machine learning framework for clad characteristics prediction in metal additive manufacturing" which is under submission at the journal of additive manufacturing.
 
+* More detailed documentation will be added soon.
+
 # Setup and Requirements
 
 This repository has been tested on the following environemt:
