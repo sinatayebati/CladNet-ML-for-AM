@@ -1,2 +1,3 @@
 # Ignore the virtual environment directory and packages
 cladnet.venv/
+data.csv
