@@ -1,10 +1,12 @@
 # CladNet-ML-for-AM
 
-This github repository contains the codes for my paper "A hybrid machine learning framework for clad characteristics prediction in metal additive manufacturing" which is under submission at the journal of additive manufacturing.
+[A hybrid machine learning framework for clad characteristics prediction in metal additive manufacturing](https://arxiv.org/abs/2307.01872)
 
-* More detailed documentation will be added soon.
+## Introduction
 
-# Setup and Requirements
+In this repository, we propose a generalizable ML framework for the prediction of clad geometrical features and optimal process window in Metal Additive Manufacturing. You can check out our [paper](https://arxiv.org/abs/2307.01872) for more details.
+
+## Setup and Requirements
 
 This repository has been tested on the following environemt:
 
@@ -31,6 +33,19 @@ Install the requirements:
 pip install -r requirements.txt
 ```
 
-# Author
+## Cite
 
-Sina Tayebati
+if you find our work useful in your research, please consider citing:
+
+```
+@article{tayebati2023hybrid,
+  title={A hybrid machine learning framework for clad characteristics prediction in metal additive manufacturing},
+  author={Tayebati, Sina and Cho, Kyu Taek},
+  journal={arXiv preprint arXiv:2307.01872},
+  year={2023}
+}
+```
+
+## Authors
+
+[Sina Tayebati](https://scholar.google.com/citations?user=GjfKPkUAAAAJ&hl=en&oi=ao), [Kyu Taek Cho](https://scholar.google.com/citations?user=uayzyQQAAAAJ&hl=en)
