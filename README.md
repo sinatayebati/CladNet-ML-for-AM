@@ -6,6 +6,12 @@
 
 In this repository, we propose a generalizable ML framework for the prediction of clad geometrical features and optimal process window in Metal Additive Manufacturing. You can check out our [paper](https://arxiv.org/abs/2307.01872) for more details.
 
+<p align="center">
+    <img src="assets/Schematic.png"
+    width = 800px
+    >
+</p>
+
 ## Setup and Requirements
 
 This repository has been tested on the following environemt:
